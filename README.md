@@ -68,7 +68,7 @@ cd guess-number
 
 4. **Запуск через GitHub Pages**:
 Проект доступен онлайн через GitHub Pages:
-[Играть в Guess-number](https://krasulinn.github.io/guess-number-web/)
+[Играть в Guess-number](https://dmitriikolotuhin.github.io/guess-number-web/)
 
 ## Технические требования
 - Современный браузер с поддержкой IndexedDB (например, Chrome, Firefox, Edge).
@@ -78,4 +78,4 @@ cd guess-number
 - Для обновления проекта просто загрузите последнюю версию репозитория.
 ## Ссылки
 [GitHub Репозиторий](https://github.com/DmitriiKolotuhin/guess-number-web)
-[Играть через GitHub Pages](https://krasulinn.github.io/guess-number-web/)
+[Играть через GitHub Pages](https://dmitriikolotuhin.github.io/guess-number-web/)
