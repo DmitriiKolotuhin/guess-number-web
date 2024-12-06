@@ -68,7 +68,7 @@
 
 1. **Склонируйте репозиторий**:
    ```bash
-   git clone https://github.com/KrasulinN/guess-number-web
+   https://github.com/DmitriiKolotuhin/guess-number-web
    
 2. **Перейдите в папку проекта**:
 
@@ -80,7 +80,7 @@ cd guess-number
 
 4. **Запуск через GitHub Pages**:
 Проект доступен онлайн через GitHub Pages:
-[Играть в Guess-number](https://krasulinn.github.io/guess-number-web/)
+[Играть в Guess-number](https://dmitriikolotuhin.github.io/guess-number-web/)
 
 ## Технические требования
 - Современный браузер с поддержкой IndexedDB (например, Chrome, Firefox, Edge).
@@ -89,5 +89,5 @@ cd guess-number
 - Сохранённые игры остаются в вашем браузере, пока вы не очистите локальные данные.
 - Для обновления проекта просто загрузите последнюю версию репозитория.
 ## Ссылки
-[GitHub Репозиторий](https://github.com/KrasulinN/guess-number-web)
-[Играть через GitHub Pages](https://krasulinn.github.io/guess-number-web/)
+[GitHub Репозиторий](https://github.com/DmitriiKolotuhin/guess-number-web)
+[Играть через GitHub Pages](https://dmitriikolotuhin.github.io/guess-number-web/)
